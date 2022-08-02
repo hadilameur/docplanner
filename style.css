@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  display: flex;
+  background-color: beige;
+  border: solid 1px;
+}
+.navbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.navbar ul {
+  color: rgb(71, 144, 144);
+  text-decoration: none;
+  list-style: none;
+}
